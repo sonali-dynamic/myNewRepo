@@ -2,6 +2,7 @@ class Test {
    int i=0;
    String str = "testBranch";
    String str1 = "testBranch1";
+   String str3 = "siali";
   }
   class Main10{
 	  public static void main(String args[]) {
