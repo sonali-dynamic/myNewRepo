@@ -1,5 +1,5 @@
 class Test {
-   int i;
+   int i=7;
   }
   class Main10{
 	  public static void main(String args[]) {
